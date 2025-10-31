@@ -17,7 +17,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B3E72.svg?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaosva/)
 [![Instagram](https://img.shields.io/badge/Instagram-C9314E.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/joaosva/)
 [![Gmail](https://img.shields.io/badge/Gmail-DB4437.svg?style=flat&logo=gmail&logoColor=white)](mailto:contatojvitorferreira@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1D222A.svg?style=flat&logo=Google-Chrome&logoColor=white)](https://portfolio-pfe-one.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?style=flat&logo=vercel&logoColor=white)](https://portfolio-pfe-one.vercel.app/)
+
 
 
 <br>
