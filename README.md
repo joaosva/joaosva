@@ -1,27 +1,64 @@
-![blur](https://capsule-render.vercel.app/api?type=blur&height=275&color=gradient&text=João%20Silva&strokeWidth=1&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=44&textBg=false)
+<h1 align="center">👨‍💻 João Silva</h1>
 
-## Minha stack
-![HTML5](https://img.shields.io/badge/HTML5-%23000000.svg?style=plastic&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-%23000000.svg?style=plastic&logo=css3&logoColor=44A7FF)
-![React](https://img.shields.io/badge/React-%23000000.svg?style=plastic&logo=react)
-![Python](https://img.shields.io/badge/Python-%23000000.svg?style=plastic&logo=python&logoColor=F6D54E)
-![Java](https://img.shields.io/badge/Java-%23000000.svg?style=plastic&logo=java)
-![Git](https://img.shields.io/badge/Git-%23000000.svg?style=plastic&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=plastic&logo=github)
-![Figma](https://img.shields.io/badge/Figma-%23000000.svg?style=plastic&logo=figma)
-![MySQL](https://img.shields.io/badge/MySQL-%23000000.svg?style=plastic&logo=mysql)
-<br>
- 
-## Redes sociais
+<p align="center">
+  <b>Desenvolvedor Full Stack | Estudante de Sistemas para Internet | Entusiasta em Tecnologia e Inovação</b><br>
+  Universidade Católica de Pernambuco • 22 anos
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B3E72.svg?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaosva/)
-[![Instagram](https://img.shields.io/badge/Instagram-C9314E.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/joaosva/)
-[![Gmail](https://img.shields.io/badge/Gmail-DB4437.svg?style=flat&logo=gmail&logoColor=white)](mailto:contatojvitorferreira@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?style=flat&logo=vercel&logoColor=white)](https://portfolio-pfe-one.vercel.app/)
+---
 
+### 👋 Sobre mim
+Sou o **João Silva**, desenvolvedor **Full Stack** apaixonado por criar soluções digitais que unem **funcionalidade, design e impacto social**.  
+Atualmente estudo **Sistemas para Internet** na **Universidade Católica de Pernambuco (UNICAP)** e já atuei na **área de Redes de Computadores**, o que me deu uma base sólida em infraestrutura e conectividade.  
 
+Sou curioso por natureza e acredito que a tecnologia é uma das maiores ferramentas para transformar o mundo.  
+Busco sempre evoluir como profissional e aprender novas tecnologias que possam **gerar valor real**.
 
-<br>
+---
 
-<div>
+### 🚀 Tecnologias & Ferramentas
 
+#### 💻 Front-end
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+#### ⚙️ Back-end
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### 🗄️ Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### 🧰 Outros
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Redes_de_Computadores-0078D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+### 🎯 Interesses
+- Desenvolvimento Web Full Stack  
+- Arquitetura de Software  
+- Inovação e Empreendedorismo  
+- Automação e Soluções Sustentáveis  
+
+---
+
+### 📫 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaosva/)
+[![Email](https://img.shields.io/badge/Email-contatojvitorferreira%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatojvitorferreira@gmail.com)
+
+---
+
+<p align="center">✨ “A tecnologia é mais poderosa quando conecta pessoas e transforma realidades.” ✨</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joaosilvadev&label=Visitas%20ao%20perfil&color=0e75b6&style=flat" alt="profile views" />
+</p>
