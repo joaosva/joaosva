@@ -1,14 +1,9 @@
-# 🐍 Gerador de animação Snake - by João Silva
-# Este workflow cria a animação da cobrinha com seus commits
-# e atualiza automaticamente o arquivo no branch "output"
-
 name: Generate Snake Animation
 
 on:
   schedule:
-    # Executa uma vez por dia às 00:00 UTC
     - cron: "0 0 * * *"
-  workflow_dispatch:  # Permite rodar manualmente
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -18,17 +13,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 🔄 Clonar repositório
+      - name: Clonar repositório
         uses: actions/checkout@v3
 
-      - name: 🐍 Gerar animação da cobrinha
+      - name: Gerar animação da cobrinha
         uses: Platane/snk@v3
         with:
-          github_user_name: joaosilvadev
+          github_user_name: joaosva
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: 🚀 Publicar animação no branch output
+      - name: Publicar animação no branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
