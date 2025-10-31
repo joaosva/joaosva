@@ -49,22 +49,6 @@ Busco sempre evoluir como profissional e aprender novas tecnologias que possam *
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaosilvadev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosilvadev&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
----
-
-### 🐍 Minhas Contribuições
-<p align="center">
-  <img src="https://raw.githubusercontent.com/joaosilvadev/joaosilvadev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
 ### 📫 Conecte-se comigo
 
 <p align="center">
