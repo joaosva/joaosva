@@ -72,3 +72,10 @@ Busco sempre evoluir como profissional e aprender novas tecnologias que possam *
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=joaosilvadev&label=Visitas%20ao%20perfil&color=0e75b6&style=flat" alt="profile views" />
 </p>
+---
+
+### 📊 GitHub Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaosva&theme=tokyonight" alt="GitHub Profile Summary"/>
+</p>
