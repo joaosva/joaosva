@@ -49,9 +49,35 @@ Busco sempre evoluir como profissional e aprender novas tecnologias que possam *
 
 ---
 
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaosilvadev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosilvadev&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+---
+
+### 🐍 Minhas Contribuições
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joaosilvadev/joaosilvadev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
 ### 📫 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaosva/)
-[![Email](https://img.shields.io/badge/Email-contatojvitorferreira%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatojvitorferreira@gmail.com)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joaosva/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:contatojvitorferreira@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/joaosva/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 ---
 
